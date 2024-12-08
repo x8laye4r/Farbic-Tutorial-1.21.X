@@ -1,0 +1,18 @@
+{
+  "item.tutorialmod.pink_garnet": "Pinker Granat",
+  "item.tutorialmod.raw_pink_garnet": "Roher Pinker Granat",
+  "item.tutorialmod.chisel": "Meißel",
+  "item.tutorialmod.ruby": "Rubien",
+
+  "block.tutorialmod.pink_garnet_block": "Block aus Pinken Granat",
+  "block.tutorialmod.raw_pink_garnet_block": "Block aus Rohen Pinken Granat",
+
+  "block.tutorialmod.pink_garnet_ore": "Pinkes Granaterz",
+  "block.tutorialmod.pink_garnet_deepslate_ore": "Tiefenschiefer Pinkes Granaterz",
+
+  "block.tutorialmod.magic_block": "Magischer Block",
+
+  "itemgroup.tutorialmod.pink_garnet_items": "Pink Granat Items",
+  "itemgroup.tutorialmod.pink_garnet_blocks": "Pink Granat Blöcke",
+  "itemgroup.tutorialmod.ruby": "Rubien Items"
+}
